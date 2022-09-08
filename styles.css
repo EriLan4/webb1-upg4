@@ -1,0 +1,30 @@
+body{
+    font-family: verdana, sans-serif;
+    color: black;
+    background-color: rgb(94, 255, 247);
+}
+
+article, footer{
+    background-color: rgb(186, 221, 170);
+}
+
+main{
+    display: flex;
+    gap: 15px;
+}
+
+article{
+    padding:0px 10px;
+}
+
+footer{
+    margin-top: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(15, 140, 15);
+}
+a:hover{
+    text-decoration: underline;
+}
